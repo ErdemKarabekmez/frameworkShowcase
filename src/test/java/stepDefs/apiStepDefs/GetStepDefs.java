@@ -21,7 +21,7 @@ public class GetStepDefs {
 
         response.prettyPrint();
 
-//test
+
 
 
         //How to print 'Status Code' on the console?
